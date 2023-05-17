@@ -25,3 +25,4 @@ angka::~angka() { //Destructor
 	delete[]arr;
 	cout << "Alamat Array Sudah Dilepaskan" << endl;
 }
+
